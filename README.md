@@ -1,2 +1,2 @@
-# quiz-app-java
+# Quiz GUI
  Quiz Application GUI Using Java & DB
